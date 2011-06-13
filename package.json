@@ -8,8 +8,8 @@
         "url" : "http://github.com/substack/node-seq.git"
     },
     "dependencies" : {
-        "chainsaw" : ">=0.0.7 <0.1",
-        "hashish" : ">=0.0.2 <0.1"
+        "chainsaw" : "https://github.com/guybrush/node-chainsaw/tarball/fixIE_0.0.9",
+        "hashish" : "https://github.com/guybrush/node-hashish/tarball/fixIE_dontpull"
     },
     "devDependencies" : {
         "expresso" : "=0.7.x"
